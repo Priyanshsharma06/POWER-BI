@@ -1,9 +1,10 @@
-📊 Power BI Project
-📌 Overview
+## 📊 Power BI Project
+
+#📌 Overview
 
 This repository contains a Power BI project I created to analyze and visualize [insert domain: sales, complaints, healthcare, finance, etc.] data. The goal of this project is to demonstrate data cleaning, transformation, and visualization skills while providing actionable insights through interactive dashboards.
 
-🚀 Features
+#🚀 Features
 
 Interactive dashboards with drill-through and filter functionality
 
