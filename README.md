@@ -53,8 +53,6 @@ Decomposition trees & key influencers.
 
 📸 Dashboard Preview
 
-(Insert screenshots of your Power BI dashboard here)
-
 [DashBoard](https://github.com/user-attachments/files/22676212/POWER.BI.PROJECT.pdf)
 
 🔑 Key Learnings
